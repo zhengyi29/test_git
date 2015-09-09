@@ -1,4 +1,4 @@
 # test_git
-a throwaway report for test
+A throwaway experimental repo for a Git Tutorial
 
 Let's learn git basics together!
