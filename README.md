@@ -1,4 +1,4 @@
 # test_git
-A Throwaway repo for a Git tutorial by Team Dynamite
+A throwaway experimental repo for a Git Tutorial
 
 Let's learn git basics together!
